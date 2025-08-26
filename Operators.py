@@ -1,0 +1,25 @@
+a, b = 10, 3
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a % b)
+print(a ** b)
+print(a // b)
+
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a <= b)
+
+print(a and b)
+print(a or b)
+print(not a)
+
+print(a & b)
+print(a | b)
+print(a ^ b)
+print(a << 1)
+print(a >> 1)
